@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Fetcher
 //
-//  Created by Monica Reta on 10/23/24.
+//  Created by Monica Auriemma on 10/23/24.
 //
 
 import SwiftUI
